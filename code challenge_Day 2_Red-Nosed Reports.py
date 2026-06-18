@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Created by Andrea Unrau, June 17, 2026
+for samdesk opening: Junior Machine Learning Engineer - Alerts Team
 """
 
 import pandas as pd
@@ -85,6 +84,7 @@ def main():
     safe = 0
     min_diff = 1
     max_diff = 3
+    
     
     df = pd.DataFrame(
         [
